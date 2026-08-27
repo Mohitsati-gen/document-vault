@@ -19,6 +19,6 @@ Server runs at http://localhost:4000/graphql
 
 ## Extending
 
-- Add auth via context (currently out of scope per assignment)
+- Add auth via context 
 - Add full-text search index instead of `contains` for larger datasets
 - Add DataLoader if nested collection→documents queries need batching at scale
